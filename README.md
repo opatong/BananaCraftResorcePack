@@ -2,5 +2,3 @@
 BananaCraftResorcePack
 asdasdas
 asd
-sad
-ผปหฟก
