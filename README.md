@@ -1,4 +1,0 @@
-# BananaCraftResorcePack
-BananaCraftResorcePack
-asdasdas
-asd

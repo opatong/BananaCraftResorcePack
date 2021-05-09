@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "1",
+	"textures": {
+		"0": "banana:gui/background/background",
+		"particle": "banana:gui/background/background"
+	},
+	"elements": [
+		{
+			"from": [-16, -16, 8],
+			"to": [32, 32, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [0.5, -43, 0],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"translation": [0, 80, -3],
+			"scale": [4, 4, 4]
+		}
+	}
+}

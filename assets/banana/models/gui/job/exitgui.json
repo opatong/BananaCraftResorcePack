@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "1",
+	"textures": {
+		"0": "banana:gui/job/exitgui",
+		"particle": "banana:gui/job/exitgui"
+	},
+	"elements": [
+		{
+			"from": [-4, -10, 8],
+			"to": [22, 16, 8],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [-2.25, 11.25, 0],
+			"scale": [2.5, 2.5, 4]
+		},
+		"fixed": {
+			"translation": [0, 80, -3],
+			"scale": [4, 4, 4]
+		}
+	}
+}

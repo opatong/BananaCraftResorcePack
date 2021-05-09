@@ -1,0 +1,20 @@
+{
+  "npc.banana.1": {
+    "category": "master",
+    "sounds": [
+      "npc/banana/1"
+    ]
+  },
+  "npc.banana.2": {
+    "category": "master",
+    "sounds": [
+      "npc/banana/2"
+    ]
+  },
+  "npc.angerla.talk.1": {
+    "category": "master",
+    "sounds": [
+      "npc/angerla/talk/1"
+    ]
+  }
+}

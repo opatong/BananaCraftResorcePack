@@ -1,0 +1,27 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "bananagui:gui/job/miner",
+		"particle": "bananagui:gui/job/miner"
+	},
+	"elements": [
+		{
+			"from": [-10, -7, 9],
+			"to": [26, 32, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [1, -5.25, 0]
+		}
+	}
+}
